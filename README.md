@@ -1,4 +1,4 @@
 ## Motivation
 1. Understand bookings in Airbnb Boston.
-2. Understand the key factors effects rental performance.
-3. Discover customer comments and the its relationship with the scores.
+2. Understand key factors effect listing rental performance.
+3. Sentimental analysis on customer comment and discover its relationship with the scores.
